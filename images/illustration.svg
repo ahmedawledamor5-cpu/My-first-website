@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="240" viewBox="0 0 600 240">
+  <rect width="600" height="240" rx="24" fill="#eaf4ff"/>
+  <circle cx="300" cy="85" r="42" fill="#1769aa"/>
+  <path d="M280 85 L294 99 L322 69" fill="none" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="300" y="165" font-family="Arial, sans-serif" font-size="25" text-anchor="middle" fill="#243b53">Mon premier projet</text>
+  <text x="300" y="198" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1769aa">Créé avec GitHub Pages</text>
+</svg>
